@@ -17,6 +17,7 @@ Clone or Download the respective repository and copy all the files in to the dir
   Add the following credentials to procced to your website.
   
  Email: umindu12@gmail.com
- Password : havefun and log in.
+ Password : havefun 
+                  and log in.
  
  After sucessfully login in fill the given form.
